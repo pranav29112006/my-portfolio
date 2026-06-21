@@ -42,13 +42,7 @@ const roles = [
     title: "Web Developer",
     description:
       "Web Developer dedicated to building modern, responsive, and user-friendly websites that combine creativity with functionality.",
-  },
-  {
-    extra: "going to become a ",
-    title: "Software Engineer",
-    description:
-      "Aspiring Software Engineer constantly learning, improving, and working towards building innovative solutions that make a real impact.",
-  },
+  }
 ];
 
 const TYPE_DURATION      = 3400;
